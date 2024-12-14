@@ -2,10 +2,8 @@
 import {
     Dialog,
     DialogContent,
-    DialogDescription,
     DialogHeader,
     DialogTitle,
-    DialogTrigger,
   } from "@/components/ui/dialog"
 import { Button } from "@/components/ui/button"
 
@@ -40,7 +38,7 @@ export default function EndGameModal(){
                     point : point
                 }
                 try {
-                    const result = await fetch("/api/user", {
+                    await fetch("/api/user", {
                         method : "POST",
                         body : JSON.stringify(user)
                     })

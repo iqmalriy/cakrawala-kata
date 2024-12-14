@@ -5,7 +5,7 @@ export async function POST(request: Request) {
     await connectToMongoDB()
     const { playerName, point } = await request.json()
     try {
-        const newUser = await Users.findOneAndUpdate(
+        await Users.findOneAndUpdate(
             {playerName},
             {$set : {playerName, point}},
             {upsert : true}
@@ -19,7 +19,7 @@ export async function POST(request: Request) {
     }
 }
 
-export async function GET(request: Request) {
+export async function GET() {
     await connectToMongoDB()
     try {
         const users = await Users.find().sort({point : -1}).limit(5);

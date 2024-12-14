@@ -52,7 +52,3 @@ export const useGameStore = create<GameState>((set)=>{
         setGameStop : () => set(() => ({gameStatus : "end"}))
     }
 })
-
-type GamePlay = {
-    allTextId : number[]
-}

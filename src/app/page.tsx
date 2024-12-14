@@ -1,15 +1,12 @@
 'use client'
-import Image from "next/image";
-import { Flame, Hourglass } from "lucide-react";
-import GameLevel from "@/components/GameLevel";
-import LeaderBoard from "@/components/LeaderBoard";
+import { Flame} from "lucide-react";
 import UserName from "@/components/UserName";
 import TextBox from "@/components/TextBox";
 import InputBox from "@/components/InputBox";
 import WelcomeModal from "@/components/WelcomeModal";
 import Countdown from "@/components/Countdown";
 import EndGameModal from "@/components/EndGameModal";
-import {useGameStore, usePlayerStore } from "@/store"
+import {usePlayerStore } from "@/store"
 import dataset from '@/dataset.json'
 import { useEffect, useState } from "react";
 import { RandomId } from "@/lib/utils";
@@ -22,7 +19,6 @@ type GameDataType = {
 }
 
 export default function Home() {
-  // const {gameStatus} = useGameStore()
   const {level, point} = usePlayerStore()
   const [gameData, setGameData] = useState<GameDataType>({id : 0, kata : "", arti : "", level : ""})
 

@@ -1,11 +1,6 @@
 'use client'
-import {
-    Popover,
-    PopoverContent,
-    PopoverTrigger,
-  } from "@/components/ui/popover"
 
-import { ChartColumnBig } from "lucide-react"
+
 type Props = {
     playerName : string,
     point : number

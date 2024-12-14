@@ -1,7 +1,7 @@
 'use client'
 import { Hourglass } from "lucide-react";
 import { useGameStore } from "@/store";
-import { useEffect, useState } from "react";
+import { useEffect} from "react";
 export default function Countdown(){
     // const [countdown, setCountdown] = useState<number>(0)
     const {gameStatus,   setGameStop, countDown, setCountDown} = useGameStore((state)=> state)

@@ -1,7 +1,6 @@
 'use client'
 import {
     InputOTP,
-    InputOTPGroup,
     InputOTPSlot,
   } from "@/components/ui/input-otp"
 
