@@ -1,0 +1,910 @@
+{
+    "mudah" : [
+    {
+      "id": 1,
+      "kata": "pensil",
+      "arti": "alat tulis berupa kayu kecil bulat berisi arang keras",
+      "level": "Mudah"
+    },
+    {
+      "id": 2,
+      "kata": "air",
+      "arti": "cairan jernih tidak berwarna, tidak berasa, dan tidak berbau yang terdapat dan diperlukan dalam kehidupan manusia, hewan, dan tumbuhan yang secara kimiawi mengandung hidrogen dan oksigen",
+      "level": "Mudah"
+    },
+    {
+      "id": 3,
+      "kata": "anak",
+      "arti": "keturunan langsung",
+      "level": "Mudah"
+    },
+    {
+      "id": 4,
+      "kata": "ayah",
+      "arti": "orang tua kandung laki-laki",
+      "level": "Mudah"
+    },
+    {
+      "id": 5,
+      "kata": "buku",
+      "arti": "lembar kertas yang berjilid",
+      "level": "Mudah"
+    },
+    {
+      "id": 6,
+      "kata": "bunga",
+      "arti": "bagian tumbuhan yang akan menjadi buah, biasanya elok warnanya dan harum baunya",
+      "level": "Mudah"
+    },
+    {
+      "id": 7,
+      "kata": "cinta",
+      "arti": "suka sekali atau sayang benar",
+      "level": "Mudah"
+    },
+    {
+      "id": 8,
+      "kata": "dapur",
+      "arti": "ruang tempat masak",
+      "level": "Mudah"
+    },
+    {
+      "id": 9,
+      "kata": "hati",
+      "arti": "organ badan yang berwarna kemerah-merahan di bagian kanan atas rongga perut, gunanya untuk mengambil sari-sari makanan di dalam darah dan menghasilkan empedu",
+      "level": "Mudah"
+    },
+    {
+      "id": 10,
+      "kata": "ibu",
+      "arti": "sebutan untuk wanita yang sudah bersuami",
+      "level": "Mudah"
+    },
+    {
+      "id": 11,
+      "kata": "jalan",
+      "arti": "tempat untuk lalu lintas orang (kendaraan dan sebagainya)",
+      "level": "Mudah"
+    },
+    {
+      "id": 12,
+      "kata": "kaki",
+      "arti": "tempat untuk lalu lintas orang (kendaraan dan sebagainya)",
+      "level": "Mudah"
+    },
+    {
+      "id": 13,
+      "kata": "kucing",
+      "arti": "binatang yang rupanya seperti harimau kecil, biasa dipiara orang",
+      "level": "Mudah"
+    },
+    {
+      "id": 14,
+      "kata": "laut",
+      "arti": "kumpulan air asin (dalam jumlah yang banyak dan luas) yang menggenangi dan membagi daratan atas benua atau pulau",
+      "level": "Mudah"
+    },
+    {
+      "id": 15,
+      "kata": "mata",
+      "arti": "indra untuk melihat, indra penglihat",
+      "level": "Mudah"
+    },
+    {
+      "id": 16,
+      "kata": "minum",
+      "arti": "memasukkan air (atau benda cair) ke dalam mulut dan meneguknya",
+      "level": "Mudah"
+    },
+    {
+      "id": 17,
+      "kata": "makan",
+      "arti": "memasukkan sesuatu ke dalam mulut, kemudian mengunyah dan menelannya",
+      "level": "Mudah"
+    },
+    {
+      "id": 18,
+      "kata": "meja",
+      "arti": "perkakas (perabot) rumah yang mempunyai bidang datar sebagai daun mejanya dan berkaki sebagai penyangganya (bermacam-macam bentuk dan gunanya);",
+      "level": "Mudah"
+    },
+    {
+      "id": 19,
+      "kata": "mobil",
+      "arti": "kendaraan darat yang digerakkan oleh tenaga mesin, beroda empat atau lebih (selalu genap), biasanya menggunakan bahan bakar minyak untuk menghidupkan mesinnya",
+      "level": "Mudah"
+    },
+    {
+      "id": 20,
+      "kata": "pintu",
+      "arti": "tempat untuk masuk dan keluar",
+      "level": "Mudah"
+    },
+    {
+      "id": 21,
+      "kata": "rumah",
+      "arti": "bangunan untuk tempat tinggal",
+      "level": "Mudah"
+    },
+    {
+      "id": 22,
+      "kata": "sayur",
+      "arti": "daun-daunan (seperti sawi), tumbuh-tumbuhan (taoge), polong atau bijian (kapri, buncis) dan sebagainya yang dapat dimasak",
+      "level": "Mudah"
+    },
+    {
+      "id": 23,
+      "kata": "sepatu",
+      "arti": "lapik atau pembungkus kaki yang biasanya dibuat dari kulit (karet dan sebagainya), bagian telapak dan tumitnya tebal dan keras",
+      "level": "Mudah"
+    },
+    {
+      "id": 24,
+      "kata": "tangan",
+      "arti": "anggota badan dari siku sampai ke ujung jari atau dari pergelangan sampai ujung jari",
+      "level": "Mudah"
+    },
+    {
+      "id": 25,
+      "kata": "telepon",
+      "arti": "pesawat dengan listrik dan kawat, untuk bercakap-cakap antara dua orang yang berjauhan tempatnya",
+      "level": "Mudah"
+    },
+    {
+      "id": 26,
+      "kata": "teman",
+      "arti": "orang yang bersama-sama bekerja (berbuat, berjalan)",
+      "level": "Mudah"
+    },
+    {
+      "id": 27,
+      "kata": "tidur",
+      "arti": "orang yang bersama-sama bekerja (berbuat, berjalan)",
+      "level": "Mudah"
+    },
+    {
+      "id": 28,
+      "kata": "uang",
+      "arti": "alat tukar atau standar pengukur nilai (kesatuan hitungan) yang sah, dikeluarkan oleh pemerintah suatu negara berupa kertas, emas, perak, atau logam lain yang dicetak dengan bentuk dan gambar tertentu",
+      "level": "Mudah"
+    },
+    {
+      "id": 29,
+      "kata": "kursi",
+      "arti": "tempat duduk yang berkaki dan bersandaran",
+      "level": "Mudah"
+    },
+    {
+      "id": 30,
+      "kata": "kopi",
+      "arti": "pohon yang banyak ditanam di Asia, Amerika Latin, dan Afrika, buahnya digoreng dan ditumbuk halus untuk dijadikan bahan pencampuran minuman;",
+      "level": "Mudah"
+    },
+    {
+      "id": 31,
+      "kata": "hujan",
+      "arti": "titik-titik air yang berjatuhan dari udara karena proses pendinginan",
+      "level": "Mudah"
+    },
+    {
+      "id": 32,
+      "kata": "sekolah",
+      "arti": "bangunan atau lembaga untuk belajar dan mengajar serta tempat menerima dan memberi pelajaran",
+      "level": "Mudah"
+    },
+    {
+      "id": 33,
+      "kata": "baju",
+      "arti": "pakaian penutup badan bagian atas (banyak ragam dan namanya)",
+      "level": "Mudah"
+    },
+    {
+      "id": 34,
+      "kata": "pohon",
+      "arti": "tumbuhan yang berbatang keras dan besar",
+      "level": "Mudah"
+    },
+    {
+      "id": 35,
+      "kata": "jendela",
+      "arti": "lubang yang dapat diberi tutup dan berfungsi sebagai tempat keluar masuk udara",
+      "level": "Mudah"
+    },
+    {
+      "id": 36,
+      "kata": "bola",
+      "arti": "benda bulat yang dibuat dari karet dan sebagainya untuk bermain-main",
+      "level": "Mudah"
+    },
+    {
+      "id": 37,
+      "kata": "kue",
+      "arti": "penganan yang dibuat dari bahan yang bermacam-macam",
+      "level": "Mudah"
+    },
+    {
+      "id": 38,
+      "kata": "pasar",
+      "arti": "tempat orang berjual beli",
+      "level": "Mudah"
+    },
+    {
+      "id": 39,
+      "kata": "jam",
+      "arti": "alat untuk mengukur waktu (seperti arloji, lonceng dinding)",
+      "level": "Mudah"
+    },
+    {
+      "id": 40,
+      "kata": "pensil",
+      "arti": "alat tulis berupa kayu kecil bulat berisi arang keras",
+      "level": "Mudah"
+    },
+    {
+      "id": 41,
+      "kata": "pulpen",
+      "arti": "pena yang dapat diisi tinta",
+      "level": "Mudah"
+    },
+    {
+      "id": 42,
+      "kata": "bendera",
+      "arti": "sepotong kain atau kertas segi empat atau segitiga (diikatkan pada ujung tongkat, tiang, dan sebagainya) dipergunakan sebagai lambang negara, perkumpulan, badan, dan sebagainya atau sebagai tanda",
+      "level": "Mudah"
+    },
+    {
+      "id": 43,
+      "kata": "langit",
+      "arti": "ruang luas yang terbentang di atas bumi, tempat beradanya bulan, bintang, matahari, dan planet yang lain",
+      "level": "Mudah"
+    },
+    {
+      "id": 44,
+      "kata": "tanah",
+      "arti": "permukaan bumi atau lapisan bumi yang di atas sekali",
+      "level": "Mudah"
+    },
+    {
+      "id": 45,
+      "kata": "awan",
+      "arti": "kelompok butiran air, es, atau kedua-duanya yang tampak mengelompok di atmosfer",
+      "level": "Mudah"
+    },
+    {
+      "id": 46,
+      "kata": "piring",
+      "arti": "wadah berbentuk bundar pipih dan sedikit cekung (atau ceper), terbuat dari porselen (seng, plastik), tempat meletakkan nasi yang hendak dimakan (tempat lauk-pauk dan sebagainya)",
+      "level": "Mudah"
+    },
+    {
+      "id": 47,
+      "kata": "sendok",
+      "arti": "alat yang digunakan sebagai pengganti tangan dalam mengambil sesuatu (seperti nasi), bentuknya bulat, cekung, dan bertangkai (ada bermacam-macam, misalnya centong, sudip)",
+      "level": "Mudah"
+    },
+    {
+      "id": 48,
+      "kata": "gelas",
+      "arti": "tempat untuk minum, berbentuk tabung terbuat dari kaca dan sebagainya",
+      "level": "Mudah"
+    },
+    {
+      "id": 49,
+      "kata": "batu",
+      "arti": "benda keras dan padat yang berasal dari bumi atau planet lain, tetapi bukan logam",
+      "level": "Mudah"
+    },
+    {
+      "id": 50,
+      "kata": "kaca",
+      "arti": "benda yang keras, biasanya bening dan mudah pecah (untuk jendela, botol, dan sebagainya)",
+      "level": "Mudah"
+    }
+  ],
+
+  "sedang" : [
+    {
+      "id": 1,
+      "kata": "ekslusif",
+      "arti": "istimewa, tidak dimiliki oleh semua orang",
+      "level": "sedang"
+    },
+    {
+      "id": 2,
+      "kata": "ekstensi",
+      "arti": "perpanjangan waktu, seperti masa berlakunya visa",
+      "level": "sedang"
+    },
+    {
+      "id": 3,
+      "kata": "euforia",
+      "arti": "perasaan nyaman atau perasaan gembira yang berlebihan",
+      "level": "sedang"
+    },
+    {
+      "id": 4,
+      "kata": "glosarium",
+      "arti": "daftar kata dengan penjelasannya dalam bidang tertentu",
+      "level": "sedang"
+    },
+    {
+      "id": 5,
+      "kata": "hipokrit",
+      "arti": "orang yang suka berpura-pura",
+      "level": "sedang"
+    },
+    {
+      "id": 6,
+      "kata": "implisit",
+      "arti": "termasuk (terkandung) di dalamnya (meskipun tidak dinyatakan secara jelas atau terang-terangan)",
+      "level": "sedang"
+    },
+    {
+      "id": 7,
+      "kata": "integritas",
+      "arti": "mutu, sifat, atau keadaan yang menunjukkan kesatuan yang utuh sehingga memiliki potensi dan kemampuan yang memancarkan kewibawaan; kejujuran",
+      "level": "sedang"
+    },
+    {
+      "id": 8,
+      "kata": "intervensi",
+      "arti": "campur tangan dalam perselisihan antara dua pihak (orang, golongan, negara, dan sebagainya)",
+      "level": "sedang"
+    },
+    {
+      "id": 9,
+      "kata": "ironi",
+      "arti": "kejadian atau situasi yang bertentangan dengan yang diharapkan atau yang seharusnya terjadi, tetapi sudah menjadi suratan takdir",
+      "level": "sedang"
+    },
+    {
+      "id": 10,
+      "kata": "justifikasi",
+      "arti": "putusan (alasan, pertimbangan) berdasarkan hati nurani",
+      "level": "sedang"
+    },
+    {
+      "id": 11,
+      "kata": "karisma",
+      "arti": "keadaan atau bakat yang dihubungkan dengan kemampuan yang luar biasa dalam hal kepemimpinan seseorang untuk membangkitkan pemujaan dan rasa kagum dari masyarakat terhadap dirinya",
+      "level": "sedang"
+    },
+    {
+      "id": 12,
+      "kata": "krisis",
+      "arti": "keadaan suram (tentang ekonomi, moral, dan sebagainya)",
+      "level": "sedang"
+    },
+    {
+      "id": 13,
+      "kata": "kritik",
+      "arti": "kecaman atau tanggapan, kadang-kadang disertai uraian dan pertimbangan baik buruk terhadap suatu hasil karya, pendapat, dan sebagainya",
+      "level": "sedang"
+    },
+    {
+      "id": 14,
+      "kata": "kronologi",
+      "arti": "urutan waktu dari sejumlah kejadian atau peristiwa",
+      "level": "sedang"
+    },
+    {
+      "id": 15,
+      "kata": "legitimasi",
+      "arti": "keterangan yang mengesahkan atau membenarkan bahwa pemegang keterangan adalah betul-betul orang yang dimaksud; kesahan",
+      "level": "sedang"
+    },
+    {
+      "id": 16,
+      "kata": "marginal",
+      "arti": "berhubungan dengan batas (tepi), tidak terlalu menguntungkan",
+      "level": "sedang"
+    },
+    {
+      "id": 17,
+      "kata": "metafora",
+      "arti": "pemakaian kata atau kelompok kata bukan dengan arti yang sebenarnya, melainkan sebagai lukisan yang berdasarkan persamaan atau perbandingan",
+      "level": "sedang"
+    },
+    {
+      "id": 18,
+      "kata": "patriarki",
+      "arti": "sistem sosial yang menempatkan laki-laki sebagai kelompok dominan",
+      "level": "sedang"
+    },
+    {
+      "id": 19,
+      "kata": "permutasi",
+      "arti": "perbuatan atau proses mengubah letak urutan benda, perubahan urutan (angka-angka dan sebagainya)",
+      "level": "sedang"
+    },
+    {
+      "id": 20,
+      "kata": "plagiarisme",
+      "arti": "penjiplakan yang melanggar hak cipta",
+      "level": "sedang"
+    },
+    {
+      "id": 21,
+      "kata": "pluralisme",
+      "arti": "keadaan masyarakat yang majemuk (bersangkutan dengan sistem sosial dan politiknya)",
+      "level": "sedang"
+    },
+    {
+      "id": 22,
+      "kata": "prematur",
+      "arti": "belum (waktunya) masak (matang), sebelum waktunya, belum cukup bulan, pradini",
+      "level": "sedang"
+    },
+    {
+      "id": 23,
+      "kata": "prerogatif",
+      "arti": "hak istimewa yang dipunyai oleh kepala negara mengenai hukum dan undang-undang di luar kekuasaan badan-badan perwakilan",
+      "level": "sedang"
+    },
+    {
+      "id": 24,
+      "kata": "propaganda",
+      "arti": "penerangan (paham, pendapat, dan sebagainya) yang benar atau salah yang dikembangkan dengan tujuan meyakinkan orang agar menganut suatu aliran, sikap, atau arah tindakan tertentu",
+      "level": "sedang"
+    },
+    {
+      "id": 25,
+      "kata": "prosa",
+      "arti": "karangan bebas (tidak terikat oleh kaidah yang terdapat dalam puisi)",
+      "level": "sedang"
+    },
+    {
+      "id": 26,
+      "kata": "proyeksi",
+      "arti": "perkiraan tentang keadaan masa yang akan datang dengan menggunakan data yang ada (sekarang)",
+      "level": "sedang"
+    },
+    {
+      "id": 27,
+      "kata": "provokasi",
+      "arti": "perbuatan untuk membangkitkan kemarahan; tindakan menghasut; penghasutan; pancingan",
+      "level": "sedang"
+    },
+    {
+      "id": 28,
+      "kata": "rekonsiliasi",
+      "arti": "ikhtisar yang memuat rincian perbedaan antara dua akun atau lebih",
+      "level": "sedang"
+    },
+    {
+      "id": 29,
+      "kata": "relevansi",
+      "arti": "hubungan atau kaitan",
+      "level": "sedang"
+    },
+    {
+      "id": 30,
+      "kata": "retorika",
+      "arti": "keterampilan berbahasa secara efektif",
+      "level": "sedang"
+    },
+    {
+      "id": 31,
+      "kata": "revitalisasi",
+      "arti": "proses, cara, perbuatan menghidupkan atau menggiatkan kembali",
+      "level": "sedang"
+    },
+    {
+      "id": 32,
+      "kata": "simbiosis",
+      "arti": "keadaan hidup bersama secara erat antara dua organisme yang berbeda",
+      "level": "sedang"
+    },
+    {
+      "id": 33,
+      "kata": "solidaritas",
+      "arti": "sifat satu rasa (senasib dan sebagainya)",
+      "level": "sedang"
+    },
+    {
+      "id": 34,
+      "kata": "spekulasi",
+      "arti": "pendapat atau dugaan yang tidak berdasarkan kenyataan",
+      "level": "sedang"
+    },
+    {
+      "id": 35,
+      "kata": "tabu",
+      "arti": "yang dianggap suci (tidak boleh disentuh, diucapkan, dan sebagainya)",
+      "level": "sedang"
+    },
+    {
+      "id": 36,
+      "kata": "sublimasi",
+      "arti": "perubahan langsung bentuk padat suatu zat menjadi uap tanpa melalui bentuk cair",
+      "level": "sedang"
+    },
+    {
+      "id": 37,
+      "kata": "transisi",
+      "arti": "peralihan dari keadaan (tempat, tindakan, dan sebagainya) pada yang lain",
+      "level": "sedang"
+    },
+    {
+      "id": 38,
+      "kata": "validitas",
+      "arti": "sifat benar menurut bahan bukti yang ada, logika berpikir, atau kekuatan hukum; sifat valid; kesahihan",
+      "level": "sedang"
+    },
+    {
+      "id": 39,
+      "kata": "variabel",
+      "arti": "dapat berubah-ubah, berbeda-beda, bermacam-macam (tentang mutu, harga, dan sebagainya)",
+      "level": "sedang"
+    },
+    {
+      "id": 40,
+      "kata": "verifikasi",
+      "arti": "pemeriksaan tentang kebenaran laporan, pernyataan, perhitungan uang, dan sebagainya",
+      "level": "sedang"
+    },
+    {
+      "id": 41,
+      "kata": "visi",
+      "arti": "kemampuan untuk melihat pada inti persoalan; 2 pandangan atau wawasan ke depan",
+      "level": "sedang"
+    },
+    {
+      "id": 42,
+      "kata": "zodiak",
+      "arti": "lingkaran khayal di cakrawala yang dibagi menjadi dua belas tanda perbintangan",
+      "level": "sedang"
+    },
+    {
+      "id": 43,
+      "kata": "vibrasi",
+      "arti": "getaran",
+      "level": "sedang"
+    },
+    {
+      "id": 44,
+      "kata": "wilayah",
+      "arti": "daerah (kekuasaan, pemerintahan, pengawasan, dan sebagainya)",
+      "level": "sedang"
+    },
+    {
+      "id": 45,
+      "kata": "sinopsis",
+      "arti": "ikhtisar karangan yang biasanya diterbitkan bersama-sama dengan karangan asli",
+      "level": "sedang"
+    },
+    {
+      "id": 46,
+      "kata": "sirkulasi",
+      "arti": "peredaran",
+      "level": "sedang"
+    },
+    {
+      "id": 47,
+      "kata": "renovasi",
+      "arti": "pembaharuan, peremajaan atau penyempurnaan (tentang gedung bangunan dan sebagainya)",
+      "level": "sedang"
+    },
+    {
+      "id": 48,
+      "kata": "proteksi",
+      "arti": "perlindungan (dalam perdagangan, industri, dan sebagainya)",
+      "level": "sedang"
+    },
+    {
+      "id": 49,
+      "kata": "kontemplasi",
+      "arti": "renungan dan sebagainya dengan kebulatan pikiran atau perhatian penuh",
+      "level": "sedang"
+    },
+    {
+      "id": 50,
+      "kata": "literasi",
+      "arti": "kemampuan seseorang untuk membaca, menulis, memahami, menginterpretasikan, dan menggunakan informasi dengan baik",
+      "level": "sedang"
+    }
+  ], 
+
+  "sulit" : [
+    {
+      "id": 1,
+      "kata": "abiotik",
+      "arti": "berhubungan dengan atau dicirikan oleh tidak adanya organisme hidup",
+      "level": "sulit"
+    },
+    {
+      "id": 2,
+      "kata": "intangibel",
+      "arti": "aset yang tidak berwujud dan tidak dapat diukur secara fisik",
+      "level": "sulit"
+    },
+    {
+      "id": 3,
+      "kata": "ablasi",
+      "arti": "hal terlepasnya sesuatu dari sesuatu",
+      "level": "sulit"
+    },
+    {
+      "id": 4,
+      "kata": "abnegasi",
+      "arti": "penyangkalan diri",
+      "level": "sulit"
+    },
+    {
+      "id": 5,
+      "kata": "absurd",
+      "arti": "tidak masuk akal atau mustahil",
+      "level": "sulit"
+    },
+    {
+      "id": 6,
+      "kata": "adicita",
+      "arti": "ideologi",
+      "level": "sulit"
+    },
+    {
+      "id": 7,
+      "kata": "agresi",
+      "arti": "penyerangan suatu negara terhadap negara lain",
+      "level": "sulit"
+    },
+    {
+      "id": 8,
+      "kata": "aliterasi",
+      "arti": "sajak awal (untuk mendapatkan efek kesedapan bunyi)",
+      "level": "sulit"
+    },
+    {
+      "id": 9,
+      "kata": "amalgamasi",
+      "arti": "pengalgaman",
+      "level": "sulit"
+    },
+    {
+      "id": 10,
+      "kata": "kontur",
+      "arti": "pola ciri-ciri yang terjadi dari pola nada, gerak nada dengan atau tanpa tekanan yang meliputi sebagian atau seluruh ujaran tertentu",
+      "level": "sulit"
+    },
+    {
+      "id": 11,
+      "kata": "amorf",
+      "arti": "tidak mempunyai bentuk atau tidak jelas bentuknya",
+      "level": "sulit"
+    },
+    {
+      "id": 12,
+      "kata": "antitesis",
+      "arti": "pengungkapan gagasan yang bertentangan dalam susunan kata yang sejajar, seperti dalam semboyan \"Merdeka atau Mati",
+      "level": "sulit"
+    },
+    {
+      "id": 13,
+      "kata": "aproksimasi",
+      "arti": "pendekatan atau perkiraan",
+      "level": "sulit"
+    },
+    {
+      "id": 14,
+      "kata": "arkhais",
+      "arti": "berhubungan dengan masa lalu atau berciri kuno",
+      "level": "sulit"
+    },
+    {
+      "id": 15,
+      "kata": "asimtot",
+      "arti": "garis lurus yang makin didekati oleh suatu lengkungan, tetapi tidak pernah dipotong",
+      "level": "sulit"
+    },
+    {
+      "id": 16,
+      "kata": "asonansi",
+      "arti": "perulangan bunyi vokal dalam deretan kata",
+      "level": "sulit"
+    },
+    {
+      "id": 17,
+      "kata": "atavisme",
+      "arti": "pemunculan kembali sifat-sifat (ciri-ciri) pada seseorang yang sudah lama tidak muncul pada generasi yang sebelumnya",
+      "level": "sulit"
+    },
+    {
+      "id": 18,
+      "kata": "auditor",
+      "arti": "pengaudit",
+      "level": "sulit"
+    },
+    {
+      "id": 19,
+      "kata": "autarki",
+      "arti": "kedaulatan mutlak, baik dalam pemerintahan maupun dalam ekonomi, dengan menetapkan kebijakan nasional untuk menghindarkan ketergantungan kepada negara lain",
+      "level": "sulit"
+    },
+    {
+      "id": 20,
+      "kata": "autokton",
+      "arti": "secara endogen dihasilkan dalam habitat, komunitas, atau sistem yang sama",
+      "level": "sulit"
+    },
+    {
+      "id": 21,
+      "kata": "ergonomik",
+      "arti": "penyerasian antara pekerja, jenis pekerjaan, dan lingkungan",
+      "level": "sulit"
+    },
+    {
+      "id": 22,
+      "kata": "balistik",
+      "arti": "berkaitan dengan balistika atau benda bergerak menurut hukum balistika",
+      "level": "sulit"
+    },
+    {
+      "id": 23,
+      "kata": "barok",
+      "arti": "ciri-ciri tertentu yang dimiliki oleh tokoh drama tragedi (seperti sikap agung, tidak langsung)",
+      "level": "sulit"
+    },
+    {
+      "id": 24,
+      "kata": "bejana",
+      "arti": "benda berongga yang dapat diisi dengan cairan atau serbuk dan digunakan sebagai wadah",
+      "level": "sulit"
+    },
+    {
+      "id": 25,
+      "kata": "denotasi",
+      "arti": "makna kata atau kelompok kata yang didasarkan atas penunjukan yang lugas pada sesuatu di luar bahasa atau yang didasarkan atas konvensi tertentu dan bersifat objektif",
+      "level": "sulit"
+    },
+    {
+      "id": 26,
+      "kata": "diaspora",
+      "arti": "masa tercerai-berainya suatu bangsa yang tersebar di berbagai penjuru dunia dan bangsa tersebut tidak memiliki negara",
+      "level": "sulit"
+    },
+    {
+      "id": 27,
+      "kata": "bioteknologi",
+      "arti": "teknologi yang menyangkut jasad hidup",
+      "level": "sulit"
+    },
+    {
+      "id": 28,
+      "kata": "diventasi",
+      "arti": "tindakan pelepasan, pembebasan, dan pengurangan modal",
+      "level": "sulit"
+    },
+    {
+      "id": 29,
+      "kata": "efusi",
+      "arti": "lewatnya gas yang mendapat tekanan melalui lubang-lubang kecil atau pori-pori",
+      "level": "sulit"
+    },
+    {
+      "id": 30,
+      "kata": "eksudat",
+      "arti": "campuran serum, sel, atau sel yang rusak yang keluar dari pembuluh darah ke dalam jaringan, biasanya akibat radang",
+      "level": "sulit"
+    },
+    {
+      "id": 31,
+      "kata": "ekspatriat",
+      "arti": "orang yang melepaskan kewarganegaraannya",
+      "level": "sulit"
+    },
+    {
+      "id": 32,
+      "kata": "kapitalisme",
+      "arti": "sistem dan paham ekonomi (perekonomian) yang modalnya (penanaman modalnya, kegiatan industrinya) bersumber pada modal pribadi atau modal perusahaan swasta dengan ciri persaingan dalam pasaran bebas",
+      "level": "sulit"
+    },
+    {
+      "id": 33,
+      "kata": "eselon",
+      "arti": "formasi dalam struktur organisasi; jenjang kepangkatan",
+      "level": "sulit"
+    },
+    {
+      "id": 34,
+      "kata": "eskapisme",
+      "arti": "kehendak atau kecenderungan menghindar dari kenyataan dengan mencari hiburan dan ketenteraman di dalam khayal atau situasi rekaan",
+      "level": "sulit"
+    },
+    {
+      "id": 35,
+      "kata": "estetisme",
+      "arti": "Cabang filsafat yang membahas seni, nilai kehidupan, dan tanggapan manusia terhadap seni tersebut",
+      "level": "sulit"
+    },
+    {
+      "id": 36,
+      "kata": "fluktuasi",
+      "arti": "gejala yang menunjukkan turun-naiknya harga atau keadaan turun-naik harga dan sebagainya",
+      "level": "sulit"
+    },
+    {
+      "id": 37,
+      "kata": "genom",
+      "arti": "satu gugus kromosom yang selaras dengan segugus sel dari suatu jenis",
+      "level": "sulit"
+    },
+    {
+      "id": 38,
+      "kata": "halusinasi",
+      "arti": "pengalaman indra tanpa adanya perangsang pada alat indra yang bersangkutan, misalnya mendengar suara tanpa ada sumber suara tersebut",
+      "level": "sulit"
+    },
+    {
+      "id": 39,
+      "kata": "hierarkis",
+      "arti": "bersifat hierarki",
+      "level": "sulit"
+    },
+    {
+      "id": 40,
+      "kata": "hormon",
+      "arti": "zat yang dibentuk oleh bagian tubuh tertentu (misalnya kelenjar gondok) dalam jumlah kecil dan dibawa ke jaringan tubuh lainnya serta mempunyai pengaruh khas (merangsang dan menggiatkan kerja alat-alat tubuh)",
+      "level": "sulit"
+    },
+    {
+      "id": 41,
+      "kata": "impresi",
+      "arti": "Memberikan kesan",
+      "level": "sulit"
+    },
+    {
+      "id": 42,
+      "kata": "implikasi",
+      "arti": "keterlibatan atau keadaan terlibat",
+      "level": "sulit"
+    },
+    {
+      "id": 43,
+      "kata": "kalibrasi",
+      "arti": "tanda-tanda yang menyatakan pembagian skala",
+      "level": "sulit"
+    },
+    {
+      "id": 44,
+      "kata": "katalisator",
+      "arti": "seseorang atau sesuatu yang menyebabkan terjadinya perubahan dan menimbulkan kejadian baru atau mempercepat suatu peristiwa",
+      "level": "sulit"
+    },
+    {
+      "id": 45,
+      "kata": "kaustik",
+      "arti": "dapat terbakar, berkarat, hancur, atau rusak akibat peristiwa kimia",
+      "level": "sulit"
+    },
+    {
+      "id": 46,
+      "kata": "konduksi",
+      "arti": "hantaran dari bagian benda ke bagian benda lainnya atau dari satu benda ke benda lain tanpa perpindahan partikel atau zat",
+      "level": "sulit"
+    },
+    {
+      "id": 47,
+      "kata": "konjugasi",
+      "arti": "sistem perubahan bentuk verba yang berhubungan dengan jumlah, jenis kelamin, modus, dan waktu (terdapat pada bahasa fleksi)",
+      "level": "sulit"
+    },
+    {
+      "id": 48,
+      "kata": "kontur",
+      "arti": "garis bentuk",
+      "level": "sulit"
+    },
+    {
+      "id": 49,
+      "kata": "kosmologi",
+      "arti": "ilmu (cabang astronomi yang menyelidiki asal-usul, struktur, dan hubungan ruang waktu dari alam semesta",
+      "level": "sulit"
+    },
+    {
+      "id": 50,
+      "kata": "litigasi",
+      "arti": "segala sesuatu yang berkaitan dengan penyelesaian perkara",
+      "level": "sulit"
+    }
+  ]
+}
